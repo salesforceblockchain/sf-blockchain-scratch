@@ -13,7 +13,7 @@ We have provided two options to get the scratch org setup and configured.  The f
 
 1. Clone the **sf-blockchain-scratch** repository:
     ```
-    git clone git@git.com:salesforceblockchain/sf-blockchain-scratch.git
+    git clone git@github.com:salesforceblockchain/sf-blockchain-scratch.git
     cd sf-blockchain-scratch
     ```
 
@@ -27,7 +27,7 @@ We have provided two options to get the scratch org setup and configured.  The f
 
 1. Clone the **sf-blockchain-scratch** repository:
     ```
-    git clone git@git.com:salesforceblockchain/sf-blockchain-scratch.git
+    git clone git@github.com:salesforceblockchain/sf-blockchain-scratch.git
     cd sf-blockchain-scratch
     ```
 
