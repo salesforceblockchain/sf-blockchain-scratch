@@ -1,0 +1,10 @@
+{
+  "orgName": "Salesforce Blockchain Demo",
+  "edition": "Developer",
+  "features": ["SalesforceBlockchain"],
+  "settings": {
+      "lightningExperienceSettings": {
+          "enableS1DesktopEnabled": true
+      }
+  }
+}
