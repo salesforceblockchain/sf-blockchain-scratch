@@ -15,7 +15,6 @@ We have provided two options to get the scratch org setup and configured.  The f
     ```
     git clone git@github.com:salesforceblockchain/sf-blockchain-scratch.git
     cd sf-blockchain-scratch
-    sfdx force:auth:web:login -d
     ```
 1. Log in to the Dev Hub org.
     ```
